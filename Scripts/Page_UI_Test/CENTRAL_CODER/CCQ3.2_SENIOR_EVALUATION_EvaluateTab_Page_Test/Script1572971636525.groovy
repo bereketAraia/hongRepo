@@ -33,7 +33,7 @@ WebUI.setText(findTestObject('USER_Management/P0_Login_Page_Global/input_passwor
 
 WebUI.click(findTestObject('USER_Management/P0_Login_Page_Global/button_Log In_main'))
 
-WebUI.delay(5)
+WebUI.delay(4)
 
 WebUI.click(findTestObject('PLAN_PORTAL/PORTAL_NEW_P1_Accept_Page/button_default_contract_CY YYYY Contract-Level'))
 
