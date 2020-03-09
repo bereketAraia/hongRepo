@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>article1_button_180</name>
+   <tag></tag>
+   <elementGuidId>f25e5635-13a6-4e1e-9293-884feef21f16</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;mainContent&quot;)/mrrc-submission[1]/mrrc-submission-review[1]/form[1]/section[1]/article[1]/nav[1]/ul[1]/li[2]/button[1][count(. | //button[(text() = '180°' or . = '180°')]) = count(//button[(text() = '180°' or . = '180°')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>180°</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainContent&quot;)/mrrc-submission[1]/mrrc-submission-review[1]/form[1]/section[1]/article[1]/nav[1]/ul[1]/li[2]/button[1]</value>
+   </webElementProperties>
+</WebElementEntity>

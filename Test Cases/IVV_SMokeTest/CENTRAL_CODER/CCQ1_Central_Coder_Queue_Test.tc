@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>smoke test for the central coder queue page</description>
+   <name>CCQ1_Central_Coder_Queue_Test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>06934786-64c3-4a02-8e38-5d42b6687074</testCaseGuid>
+</TestCaseEntity>

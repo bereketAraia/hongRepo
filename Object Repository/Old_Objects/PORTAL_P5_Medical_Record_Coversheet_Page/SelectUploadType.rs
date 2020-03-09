@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SelectUploadType</name>
+   <tag></tag>
+   <elementGuidId>a3dce146-24b6-4ed3-b32d-bd916749842c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/main/plan-add-coversheet/add-coversheet-wizard/section/div/div/div[1]/div/div/div/h2</value>
+   </webElementProperties>
+</WebElementEntity>

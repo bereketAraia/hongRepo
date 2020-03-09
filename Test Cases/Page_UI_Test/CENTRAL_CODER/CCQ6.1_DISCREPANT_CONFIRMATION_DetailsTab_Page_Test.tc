@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>smoke test for discrepant Confirmation page</description>
+   <name>CCQ6.1_DISCREPANT_CONFIRMATION_DetailsTab_Page_Test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>884dc9ea-303a-48c7-9544-bbadc71cf34f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>StatusBar_li_00 Not Started</name>
+   <tag></tag>
+   <elementGuidId>8484f085-fbe7-4eae-9e7e-eed34b55d45c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html[1]/body[1]/ng-component/main[1]/header[1]/div[1]/hero-content[1]/div[@class=&quot;progress&quot;]/div[@class=&quot;angular-tooltip&quot;]/ul[@class=&quot;progress-info&quot;]/li[@class=&quot;not-started&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>not-started</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>18 Not Started</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/ng-component/main[1]/header[1]/div[1]/hero-content[1]/div[@class=&quot;progress&quot;]/div[@class=&quot;angular-tooltip&quot;]/ul[@class=&quot;progress-info&quot;]/li[@class=&quot;not-started&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>smoke test for the code MR part</description>
+   <name>CCQ5.2_FOCUSED_REVIEW_CodeMR_Tab_Page_Test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a9aa0083-451c-4632-881d-a66e95781aa5</testCaseGuid>
+</TestCaseEntity>

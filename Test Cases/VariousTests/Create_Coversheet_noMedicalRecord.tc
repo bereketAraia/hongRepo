@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create_Coversheet_noMedicalRecord</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a6091951-2324-4668-81f1-e0773e0510cb</testCaseGuid>
+</TestCaseEntity>

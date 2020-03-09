@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>smoke test for medical record coversheet page</description>
+   <name>PP5_1_Medical_Record_Coversheet_Page_Test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>df995226-662d-4f61-af35-97a084e7f31a</testCaseGuid>
+</TestCaseEntity>

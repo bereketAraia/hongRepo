@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>HCC_Tab1_label_HCC0000 (Part of a hierarchy)</name>
+   <tag></tag>
+   <elementGuidId>62d271df-e2e9-44b3-84b9-918d79fea4b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;mainContent&quot;)/plan-add-coversheet[1]/add-coversheet-wizard[1]/section[1]/div[1]/div[1]/div[@class=&quot;step-4&quot;]/ul[1]/li[1]/label[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>hcc17307</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>starts with</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                HCC
+          </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainContent&quot;)/plan-add-coversheet[1]/add-coversheet-wizard[1]/section[1]/div[1]/div[1]/div[@class=&quot;step-4&quot;]/ul[1]/li[1]/label[1]</value>
+   </webElementProperties>
+</WebElementEntity>

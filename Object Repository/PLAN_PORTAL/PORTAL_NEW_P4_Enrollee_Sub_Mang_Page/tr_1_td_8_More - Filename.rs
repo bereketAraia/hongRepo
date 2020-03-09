@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tr_1_td_8_More - Filename</name>
+   <tag></tag>
+   <elementGuidId>32c669d4-aa17-432c-a06d-b0b8c85094c2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html[1]/body[1]/ng-component/main[1]/coversheet-list[1]/section[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[5]/p[1]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/ng-component/main[1]/coversheet-list[1]/section[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[5]/p[1]/a</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>th_More</name>
+   <tag></tag>
+   <elementGuidId>0b9a896d-d5e4-4e6b-a2c8-1fe2fc3e9590</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html[1]/body[1]/ng-component/main[1]/coversheet-list[1]/section[1]/table[1]/thead[1]/tr[1]/th[8][count(. | //th[(text() = 'More' or . = 'More')]) = count(//th[(text() = 'More' or . = 'More')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>More</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/ng-component/main[1]/coversheet-list[1]/section[1]/table[1]/thead[1]/tr[1]/th[8]</value>
+   </webElementProperties>
+</WebElementEntity>

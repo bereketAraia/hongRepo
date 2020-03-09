@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>smoke tset for the Submission Tab</description>
+   <name>CCQ2.2_REVIEW_SUBMISSION_SubmissionTab_Page_Test</name>
+   <tag></tag>
+   <comment>RM-522.1: CDAT displays the following guidance text for the user to enter a comment: </comment>
+   <testCaseGuid>08cfba5f-c0d0-4885-bfea-2a615c2a2e92</testCaseGuid>
+</TestCaseEntity>

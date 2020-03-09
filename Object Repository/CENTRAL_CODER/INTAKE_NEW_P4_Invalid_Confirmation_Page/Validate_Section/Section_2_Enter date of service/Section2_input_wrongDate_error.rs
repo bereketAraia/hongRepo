@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Section2_input_wrongDate_error</name>
+   <tag></tag>
+   <elementGuidId>f08f5aed-f8bf-49ac-bbb9-3113fff223e6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;mainContent&quot;)/mrrc-submission[1]/mrrc-focused-review[1]/form[1]/section[1]/form[1]/div[2]/div[1]/errors[1]/small[1][count(. | //*[@small = 'input']) = count(//*[@small = 'input'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>small</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainContent&quot;)/mrrc-submission[1]/mrrc-focused-review[1]/form[1]/section[1]/form[1]/div[2]/div[1]/errors[1]/small[1]</value>
+   </webElementProperties>
+</WebElementEntity>

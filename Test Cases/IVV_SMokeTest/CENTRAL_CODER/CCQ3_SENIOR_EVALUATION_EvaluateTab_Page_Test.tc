@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Smoke Test for Evaluate Tab of Senior Evaluation</description>
+   <name>CCQ3_SENIOR_EVALUATION_EvaluateTab_Page_Test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a0ea73bd-36bb-49ac-8fc5-a6c2048353c0</testCaseGuid>
+</TestCaseEntity>

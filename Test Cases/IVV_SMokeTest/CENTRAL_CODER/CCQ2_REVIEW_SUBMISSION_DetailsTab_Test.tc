@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>smoke test for the submission review page test</description>
+   <name>CCQ2_REVIEW_SUBMISSION_DetailsTab_Test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>748358e9-74c5-40f9-b113-723563f37fc0</testCaseGuid>
+</TestCaseEntity>

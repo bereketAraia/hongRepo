@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Cancel - Cancel_Text_If you proceed</name>
+   <tag></tag>
+   <elementGuidId>98e8c6db-9d48-43a9-9a53-13a6bb3aa023</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;mainContent&quot;)/plan-add-coversheet[1]/add-coversheet-wizard[1]/div[1]/div[1]/div[1]/p[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainContent&quot;)/plan-add-coversheet[1]/add-coversheet-wizard[1]/div[1]/div[1]/div[1]/p[1]</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>th_CMS-HCCs</name>
+   <tag></tag>
+   <elementGuidId>065301f4-2e5d-4b1c-8f93-ef2135973728</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;mainContent&quot;)/coversheet-list[1]/section[1]/table[1]/thead[1]/tr[1]/th[5][count(. | //th[(text() = 'CMS-HCCs' or . = 'CMS-HCCs')]) = count(//th[(text() = 'CMS-HCCs' or . = 'CMS-HCCs')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CMS-HCCs</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainContent&quot;)/coversheet-list[1]/section[1]/table[1]/thead[1]/tr[1]/th[5]</value>
+   </webElementProperties>
+</WebElementEntity>

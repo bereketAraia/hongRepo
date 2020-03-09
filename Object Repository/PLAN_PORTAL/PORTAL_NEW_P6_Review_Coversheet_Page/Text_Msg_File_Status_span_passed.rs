@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Text_Msg_File_Status_span_passed</name>
+   <tag></tag>
+   <elementGuidId>6afa2f49-1b58-4e70-8bf5-1461ceafaec0</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-success</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>passed</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/main[1]/add-coversheet-review[1]/section[@class=&quot;enrollee-wizard review&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12 col-sm-10 col-sm-offset-1&quot;]/div[@class=&quot;row double-padding&quot;]/div[@class=&quot;col-xs-12 col-sm-6 bdr-left&quot;]/h4[1]/span[@class=&quot;text-success&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

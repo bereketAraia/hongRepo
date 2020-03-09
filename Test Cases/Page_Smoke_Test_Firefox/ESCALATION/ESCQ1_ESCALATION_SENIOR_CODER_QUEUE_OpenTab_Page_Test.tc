@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>page smoke test for the Escalation senior coder queue page</description>
+   <name>ESCQ1_ESCALATION_SENIOR_CODER_QUEUE_OpenTab_Page_Test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e8cbe734-5ffa-450c-8093-ea1252ec0145</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tr_1_td_8_More - Coversheet -Download</name>
+   <tag></tag>
+   <elementGuidId>1704208f-e3ce-4aab-a968-8626886564df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html[1]/body[1]/ng-component/main[1]/coversheet-list[1]/section[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[4]/p[1]/a[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/ng-component/main[1]/coversheet-list[1]/section[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[4]/p[1]/a[1]</value>
+   </webElementProperties>
+</WebElementEntity>

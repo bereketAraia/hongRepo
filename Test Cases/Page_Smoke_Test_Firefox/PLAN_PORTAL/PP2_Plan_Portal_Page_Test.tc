@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Smoke test functionality of the plan portal page</description>
+   <name>PP2_Plan_Portal_Page_Test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f4b84dba-21c9-43b9-856c-d4d39d4fdf2e</testCaseGuid>
+</TestCaseEntity>

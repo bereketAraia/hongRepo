@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>smoke test for the Coversheet Summary Page</description>
+   <name>PP4_1_Coversheet_Summary_Page_Test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d4f9b92e-21dd-4fc3-9350-33a304328441</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>smoke Test for to check the all the parts on the page</description>
+   <name>PP4.1_Enrollee_Submission_Management_page_Test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0a629d39-54d3-4341-bc09-5fc300e74082</testCaseGuid>
+</TestCaseEntity>

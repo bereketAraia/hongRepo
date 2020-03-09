@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>HCC_Tab2_label_HCC131136 (Part of a hie</name>
+   <tag></tag>
+   <elementGuidId>c05cccdc-7ef9-444c-a9ae-186ad2f8d19d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;mainContent&quot;)/plan-add-coversheet[1]/add-coversheet-wizard[1]/section[1]/div[1]/div[1]/div[@class=&quot;step-4&quot;]/ul[1]/li[2]/label[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value></value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value></value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainContent&quot;)/plan-add-coversheet[1]/add-coversheet-wizard[1]/section[1]/div[1]/div[1]/div[@class=&quot;step-4&quot;]/ul[1]/li[2]/label[1]</value>
+   </webElementProperties>
+</WebElementEntity>

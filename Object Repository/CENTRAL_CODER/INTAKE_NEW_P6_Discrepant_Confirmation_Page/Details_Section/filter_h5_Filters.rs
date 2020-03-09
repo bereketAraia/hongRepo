@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>filter_h5_Filters</name>
+   <tag></tag>
+   <elementGuidId>f6f6155a-ef9e-409f-952a-1471d4b5dff1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;mainContent&quot;)/mrrc-submission[1]/mrrc-details[1]/nav[@class=&quot;table-header&quot;]/div[1]/div[1]/h5[1][count(. | //h5[(text() = 'Filters:' or . = 'Filters:')]) = count(//h5[(text() = 'Filters:' or . = 'Filters:')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h5</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Filters:</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainContent&quot;)/mrrc-submission[1]/mrrc-details[1]/nav[@class=&quot;table-header&quot;]/div[1]/div[1]/h5[1]</value>
+   </webElementProperties>
+</WebElementEntity>

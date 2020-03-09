@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The UI page test for the plan Library</description>
+   <name>PP8_Plan_Library_Page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6396ed17-e2e1-48bb-bc7c-67e1bbdab8c3</testCaseGuid>
+</TestCaseEntity>

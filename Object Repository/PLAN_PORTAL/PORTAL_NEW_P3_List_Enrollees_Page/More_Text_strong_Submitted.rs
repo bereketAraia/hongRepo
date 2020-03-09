@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>More_Text_strong_Submitted</name>
+   <tag></tag>
+   <elementGuidId>47ca9aab-9867-48ae-b0f7-b1a61c5cae34</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;planList&quot;)/tr[2]/td[1]/div[1]/div[1]/p[2]/strong[1][count(. | //strong[(text() = 'Submitted:' or . = 'Submitted:')]) = count(//strong[(text() = 'Submitted:' or . = 'Submitted:')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Submitted:</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;planList&quot;)/tr[2]/td[1]/div[1]/div[1]/p[2]/strong[1]</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_icon-question-circle</name>
+   <tag></tag>
+   <elementGuidId>154c1966-833c-404e-b00e-f90612b18ee1</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-question-circle</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainContent&quot;)/mrrc-qa-open[1]/section[1]/div[@class=&quot;table-header&quot;]/form[@class=&quot;search ng-untouched ng-pristine ng-invalid&quot;]/span[@class=&quot;trigger&quot;]/span[@class=&quot;icon-question-circle&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To test the search functionality in list of enrollee page</description>
+   <name>PP3_2_List of Enrollees_search</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5035b4b6-6e5c-4cf1-9e1e-0bdf9a3157da</testCaseGuid>
+</TestCaseEntity>

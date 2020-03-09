@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>smoke test for review coversheet page</description>
+   <name>PP7_Review_Coversheet_Page_created</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>be821f00-e4f7-447e-b0d2-c227f6d602e7</testCaseGuid>
+</TestCaseEntity>

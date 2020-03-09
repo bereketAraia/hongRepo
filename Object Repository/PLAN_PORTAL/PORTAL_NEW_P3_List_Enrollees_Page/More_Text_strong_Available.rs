@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>More_Text_strong_Available</name>
+   <tag></tag>
+   <elementGuidId>a79a27fd-1b8a-4b85-99de-f5d8e6af4252</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;planList&quot;)/tr[2]/td[1]/div[1]/div[1]/p[3]/strong[1][count(. | //strong[(text() = 'Available:' or . = 'Available:')]) = count(//strong[(text() = 'Available:' or . = 'Available:')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Available:</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;planList&quot;)/tr[2]/td[1]/div[1]/div[1]/p[3]/strong[1]</value>
+   </webElementProperties>
+</WebElementEntity>

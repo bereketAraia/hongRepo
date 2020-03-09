@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>smoke test for the rank coverseet page</description>
+   <name>PP4.2_Rank_Coversheet_Page_Test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>42e45df2-3f32-409d-886e-5b73a1826fdd</testCaseGuid>
+</TestCaseEntity>

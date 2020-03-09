@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>smoke test for invalid confrmation</description>
+   <name>CCQ4_INVALID_CONFIRMATION_Validate_Page_Test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cb879733-8373-419e-8a91-7da21933f4b3</testCaseGuid>
+</TestCaseEntity>

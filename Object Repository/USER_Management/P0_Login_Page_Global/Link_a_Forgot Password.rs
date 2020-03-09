@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Link_a_Forgot Password</name>
+   <tag></tag>
+   <elementGuidId>aff21bf9-f14e-4fb2-a666-d3eb3997d237</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;mainContent&quot;)/login[1]/section[1]/div[@class=&quot;carousel&quot;]/div[@class=&quot;wrap&quot;]/form[1]/div[2]/p[@class=&quot;help-block&quot;]/a[1][count(. | //a[@href = '/password-forgot' and (text() = 'Forgot Password?' or . = 'Forgot Password?')]) = count(//a[@href = '/password-forgot' and (text() = 'Forgot Password?' or . = 'Forgot Password?')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>routerlink</name>
+      <type>Main</type>
+      <value>/password-forgot</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-router-link</name>
+      <type>Main</type>
+      <value>/password-forgot</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/password-forgot</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Forgot Password?</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainContent&quot;)/login[1]/section[1]/div[@class=&quot;carousel&quot;]/div[@class=&quot;wrap&quot;]/form[1]/div[2]/p[@class=&quot;help-block&quot;]/a[1]</value>
+   </webElementProperties>
+</WebElementEntity>

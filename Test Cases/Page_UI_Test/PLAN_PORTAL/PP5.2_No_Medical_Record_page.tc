@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>when no medical record is attached</description>
+   <name>PP5.2_No_Medical_Record_page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dff9ac46-61ba-4e72-b6f2-d3af3a2e6289</testCaseGuid>
+</TestCaseEntity>

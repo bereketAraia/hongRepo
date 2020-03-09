@@ -1,0 +1,18 @@
+[0810/141703.872:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0813/162305.201:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0813/162527.914:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0815/084903.811:ERROR:file_io_win.cc(170)] CreateFile C:\Users\BEREKE~1.ARA\AppData\Local\Temp\scoped_dir163848_24966\Crashpad\reports\5dc2f135-6760-4bf9-b951-a3b66fb70b60.dmp: The system cannot find the path specified. (0x3)
+[0815/084903.813:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0815/120946.589:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0815/121141.407:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1030/104827.870:ERROR:process_info.cc(375)] NtQuerySystemInformation SystemExtendedHandleInformation: The specified information record length does not match the length required for the specified information class. (0xc0000004)
+[1030/104854.444:ERROR:process_info.cc(375)] NtQuerySystemInformation SystemExtendedHandleInformation: The specified information record length does not match the length required for the specified information class. (0xc0000004)
+[1030/104923.118:ERROR:process_info.cc(375)] NtQuerySystemInformation SystemExtendedHandleInformation: The specified information record length does not match the length required for the specified information class. (0xc0000004)
+[0501/151101.817:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0513/132224.987:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0516/001248.020:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0519/041718.450:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0524/121920.636:ERROR:file_io_win.cc(170)] CreateFile C:\Users\BEREKE~1.ARA\AppData\Local\Temp\scoped_dir12992_6125\Crashpad\reports\8adfbb1d-627c-45c1-a757-18ee3764d0ad.dmp: The system cannot find the path specified. (0x3)
+[0524/121920.637:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0618/141208.814:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0309/160505.398:ERROR:prune_crash_reports.cc(35)] PruneCrashReportDatabase: Failed to get pending reports

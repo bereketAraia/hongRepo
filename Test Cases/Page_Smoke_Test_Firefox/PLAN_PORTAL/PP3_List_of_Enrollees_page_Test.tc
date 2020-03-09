@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>smoke test for list of enrollees page</description>
+   <name>PP3_List_of_Enrollees_page_Test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a35bd2bf-883e-400b-92c4-9c34b92ed064</testCaseGuid>
+</TestCaseEntity>

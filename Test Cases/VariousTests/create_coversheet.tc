@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>to create a coversheet from start to finish</description>
+   <name>create_coversheet</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b50df40e-277a-4eed-9fc2-ede1aa0a77c2</testCaseGuid>
+</TestCaseEntity>

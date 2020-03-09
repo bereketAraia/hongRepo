@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description></description>
+   <name>firstTest</name>
+   <tag></tag>
+   <UUID>60a9f0cb-9255-4a68-9caf-83aced8a452d</UUID>
+   <migratedVersion>5.9.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+   <recentExpandedTreeEntityIds>Test Cases</recentExpandedTreeEntityIds>
+   <recentExpandedTreeEntityIds>Test Cases/Page_Smoke_Test/PLAN_PORTAL</recentExpandedTreeEntityIds>
+   <recentExpandedTreeEntityIds>Test Cases/SPRINT_TEST</recentExpandedTreeEntityIds>
+   <recentExpandedTreeEntityIds>Test Cases/SPRINT_TEST/Sprint_12</recentExpandedTreeEntityIds>
+   <recentExpandedTreeEntityIds>Test Cases/VariousTests</recentExpandedTreeEntityIds>
+   <recentExpandedTreeEntityIds>Test Suites</recentExpandedTreeEntityIds>
+   <recentOpenedTreeEntityIds>Test Cases/SPRINT_TEST/Sprint_12/RM)3249_View Search Results on Research Management Screen</recentOpenedTreeEntityIds>
+   <recentOpenedTreeEntityIds>Test Cases/SPRINT_TEST/Sprint_12/RM_3655_Register New MA Contract User Account</recentOpenedTreeEntityIds>
+   <sourceContent>
+      <sourceFolderList>
+         <sourceFolderConfiguration>
+            <url>Include/scripts/groovy</url>
+         </sourceFolderConfiguration>
+      </sourceFolderList>
+      <systemFolderList>
+         <systemFolderConfiguration>
+            <url>Include/scripts/groovy</url>
+         </systemFolderConfiguration>
+         <systemFolderConfiguration>
+            <url>Include/features</url>
+         </systemFolderConfiguration>
+         <systemFolderConfiguration>
+            <url>Include/config</url>
+         </systemFolderConfiguration>
+      </systemFolderList>
+   </sourceContent>
+   <type>GENERIC</type>
+</Project>

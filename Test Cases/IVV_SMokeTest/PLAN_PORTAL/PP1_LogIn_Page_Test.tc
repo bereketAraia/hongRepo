@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Smoke test to check all the parts on the LogIn Page</description>
+   <name>PP1_LogIn_Page_Test</name>
+   <tag>Login Page</tag>
+   <comment></comment>
+   <testCaseGuid>3ed825a2-55fb-4861-934d-0bc7392ac9b8</testCaseGuid>
+</TestCaseEntity>
