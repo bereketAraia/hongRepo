@@ -60,7 +60,7 @@ WebUI.click(findTestObject('CENTRAL_CODER/INTAKE_NEW_P1_Central_Coder_Queue_Page
 'RM-519.1: Given that the user has selected a Coversheet ID from their Open queue and selected the Submission tab on the Review Submission screen, CDAT allows the user to view the task on the Submission tab of the Review Submission screen. '
 WebUI.click(findTestObject('CENTRAL_CODER/INTAKE_NEW_P2_Review_Submission_Page/Details_Tab/hero_button_Submission'))
 
-WebUI.delay(2)
+WebUI.delay(5)
 
 'RM-519.2'
 WebUI.verifyElementPresent(findTestObject('CENTRAL_CODER/INTAKE_NEW_P2_Review_Submission_Page/Details_Tab/hero_li_Coversheet ID CY YYYY Contract'), 
