@@ -35,7 +35,7 @@ WebUI.setText(findTestObject('USER_Management/P0_Login_Page_Global/input_passwor
 
 WebUI.click(findTestObject('USER_Management/P0_Login_Page_Global/button_Log In_main'))
 
-WebUI.delay(2)
+WebUI.delay(3)
 
 WebUI.click(findTestObject('CENTRAL_CODER/INTAKE_NEW_P1_Central_Coder_Queue_Page/Hero/hero_dropDown_button_CY XXXX'))
 
